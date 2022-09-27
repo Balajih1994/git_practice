@@ -5,7 +5,7 @@ orange
 guava
 jackfruit
 berry
-kiwi
+kiwi-fruit
 green apple
 watermelon
 
