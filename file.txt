@@ -4,4 +4,6 @@ cherry
 orange
 guava
 jackfruit
+berry
+kiwi
 
