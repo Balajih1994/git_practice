@@ -6,4 +6,6 @@ guava
 jackfruit
 berry
 kiwi
+green apple
+watermelon
 
