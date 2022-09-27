@@ -5,7 +5,6 @@ orange
 guava
 jackfruit
 berry
-kiwi-fruit
-green apple
-watermelon
+kiwi-fruits - health for life
+
 
